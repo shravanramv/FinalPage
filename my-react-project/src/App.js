@@ -25,8 +25,8 @@ function App() {
 }
 
 function handleDoAnotherImage() {
-  // Handle the logic for processing another image
-  console.log("Do for another image clicked");
+  // Navigate to the specified URL
+  window.location.href = "https://shravanramv.github.io/EditImagePage/";
 }
 
 function handleDownloadImage() {
